@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @elloNicole
+- ⚡ About me: I'm 17 years old, my name is Nicole Mello and I'm studying the 3rd year of high school integrated with Systems Development Technician education.
+- 👀 I'm interested in developing back-end projects, databases and creating good solutions in the world of systems programming
+- 🌱 I’m currently learning Csharp, MySQL, database and python.
+- 💞️ I’m looking to collaborate on with the community and learn new things
+- 📫 contact me via email if you want: nicolemello6002@gmail.com
